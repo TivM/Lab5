@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "name": "2",
+    "coordinates": {
+      "x": 3.0,
+      "y": 4
+    },
+    "creationDate": "2022-04-23 09:20:36",
+    "salary": 1000,
+    "position": "COOK",
+    "status": "HIRED",
+    "person": {}
+  }
+]
